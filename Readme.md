@@ -1,7 +1,7 @@
 # Личный проект «Глейси»
 
 * Студент: [Сергей Бирюков](https://up.htmlacademy.ru/htmlcss/29/user/1345575).
-* Наставник: `Неизвестно`.
+* Наставник: [Дмитрий Беллавин](https://htmlacademy.ru/profile/bellavin).
 
 ---
 
